@@ -7,4 +7,5 @@ def fizzbuzz(random_num)
     return "Buzz"
   else
     return random_num
+  end
 end
